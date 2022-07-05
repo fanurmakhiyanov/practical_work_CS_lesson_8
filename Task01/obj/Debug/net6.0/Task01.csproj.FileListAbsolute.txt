@@ -1,0 +1,15 @@
+D:\GB\practical_work_CS_lesson_8\Task01\bin\Debug\net6.0\Task01.exe
+D:\GB\practical_work_CS_lesson_8\Task01\bin\Debug\net6.0\Task01.deps.json
+D:\GB\practical_work_CS_lesson_8\Task01\bin\Debug\net6.0\Task01.runtimeconfig.json
+D:\GB\practical_work_CS_lesson_8\Task01\bin\Debug\net6.0\Task01.dll
+D:\GB\practical_work_CS_lesson_8\Task01\bin\Debug\net6.0\Task01.pdb
+D:\GB\practical_work_CS_lesson_8\Task01\obj\Debug\net6.0\Task01.csproj.AssemblyReference.cache
+D:\GB\practical_work_CS_lesson_8\Task01\obj\Debug\net6.0\Task01.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\practical_work_CS_lesson_8\Task01\obj\Debug\net6.0\Task01.AssemblyInfoInputs.cache
+D:\GB\practical_work_CS_lesson_8\Task01\obj\Debug\net6.0\Task01.AssemblyInfo.cs
+D:\GB\practical_work_CS_lesson_8\Task01\obj\Debug\net6.0\Task01.csproj.CoreCompileInputs.cache
+D:\GB\practical_work_CS_lesson_8\Task01\obj\Debug\net6.0\Task01.dll
+D:\GB\practical_work_CS_lesson_8\Task01\obj\Debug\net6.0\refint\Task01.dll
+D:\GB\practical_work_CS_lesson_8\Task01\obj\Debug\net6.0\Task01.pdb
+D:\GB\practical_work_CS_lesson_8\Task01\obj\Debug\net6.0\Task01.genruntimeconfig.cache
+D:\GB\practical_work_CS_lesson_8\Task01\obj\Debug\net6.0\ref\Task01.dll
